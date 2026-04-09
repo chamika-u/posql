@@ -3,4 +3,6 @@ create table students(
 	student_name varchar(100)
 );
 
-create table
+create table subjectStreams(
+    
+)
