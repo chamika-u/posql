@@ -10,5 +10,6 @@ create table subjectStreams(
 
 create table subjects(
 	subject_id serial primary key,
-	subject_name varchar(100)
+	subject_name varchar(100),
+	OREIGN KEY (category_id) REFERENCES categories(category_id), 
 );
