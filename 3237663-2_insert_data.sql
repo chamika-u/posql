@@ -8,4 +8,4 @@ select * from subjectstreams;
 
 -- Insert data into subjects table
 insert into subjects(subject_name,stream_id) values ('Combined Mathematics', 1),('Physics', 1),('Chemistry', 1)
-('ICT', 1), ('Biology', 2), ('Physics')
+('ICT', 1), ('Biology', 2), ('')
