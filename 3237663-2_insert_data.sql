@@ -1,1 +1,1 @@
-insert into students(student_name) values
+insert into students(student_name) values ('Chamika'), ('Dineth')
