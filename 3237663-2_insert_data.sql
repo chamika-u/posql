@@ -3,4 +3,4 @@ insert into students(student_name) values ('Chamika'), ('Dinethma'), ('Minuthi')
 SELECT * FROM students;
 
 -- Insert data into streams table
-insert into subjectStrams(stream_name) values ('Physical Sciences'), ('Biology'), ('Commerce'),('Engineering Technology'),('Bio System Technology'),('Arts');
+insert into subjectStreams(stream_name) values ('Physical Sciences'), ('Biology'), ('Commerce'),('Engineering Technology'),('Bio System Technology'),('Arts');
