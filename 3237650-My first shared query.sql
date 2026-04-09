@@ -8,4 +8,6 @@ create table subjectStreams(
 	stream_name varchar(100)
 );
 
-create table
+create table subjects(
+	
+)
