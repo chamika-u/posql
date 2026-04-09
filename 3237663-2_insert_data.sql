@@ -7,4 +7,4 @@ insert into subjectStreams(stream_name) values ('Physical Sciences'), ('Biology'
 select * from subjectstreams;
 
 -- Insert data into subjects table
-insert into subjects(subject_name,stream_id) values ('Combined Mathematics', 1),('')
+insert into subjects(subject_name,stream_id) values ('Combined Mathematics', 1),('Physics', 1),('Chemistry', 1)
