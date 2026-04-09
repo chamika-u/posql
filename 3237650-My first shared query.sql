@@ -4,5 +4,5 @@ create table students(
 );
 
 create table subjectStreams(
-    
+    stream_id serial primaty 
 )
