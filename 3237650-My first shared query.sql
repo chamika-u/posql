@@ -6,4 +6,6 @@ create table students(
 create table subjectStreams(
     stream_id serial primary key,
 	stream_name varchar(100)
-)
+);
+
+create table
