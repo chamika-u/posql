@@ -9,5 +9,6 @@ create table subjectStreams(
 );
 
 create table subjects(
-	subject
+	subject_id serial primary key,
+	subject_name va
 )
