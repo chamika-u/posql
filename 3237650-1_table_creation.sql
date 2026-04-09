@@ -13,5 +13,3 @@ create table subjects(
 	subject_name varchar(100),
 	FOREIGN KEY (stream_id) REFERENCES subjectStream(stream_id) 
 );
-
-drop table public.
