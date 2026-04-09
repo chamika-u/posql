@@ -1,1 +1,1 @@
-insert into students
+insert into students(student_name) values
