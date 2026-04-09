@@ -1,4 +1,4 @@
 create table students(
-	stud_id serial primary key,
-	name varchar(100)
+	student_id serial primary key,
+	student_name varchar(100)
 );
