@@ -12,5 +12,3 @@ create table subjects(
 	subject_id serial primary key,
 	subject_name varchar(100)
 );
-
-select * from students
