@@ -11,5 +11,5 @@ create table subjectStreams(
 create table subjects(
 	subject_id serial primary key,
 	subject_name varchar(100),
-	FOREIGN KEY (stream_id) REFERENCES subjectStream(stream_id) 
+	FOREIGN KEY (stream_id) REFERENCES subjectStreams(stream_id) 
 );
