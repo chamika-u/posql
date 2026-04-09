@@ -5,3 +5,6 @@ select * from students;
 -- Insert data into streams table
 insert into subjectStreams(stream_name) values ('Physical Sciences'), ('Biology'), ('Commerce'),('Engineering Technology'),('Bio System Technology'),('Arts');
 select * from subjectstreams;
+
+-- Insert data into subjects table
+insert
