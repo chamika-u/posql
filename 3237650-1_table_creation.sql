@@ -10,5 +10,5 @@ create table subjectStreams(
 
 create table subjects(
 	subject_id serial primary key,
-	subject_name va
-)
+	subject_name varchar(100)
+);
